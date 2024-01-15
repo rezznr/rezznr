@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently interesting as a Frontend web developer<br><br>I'm currently Learning :<br>- ReactJS<br>- NextJS<br>- Typescript<br>- Golang<br>- PHP<br>- Laravel<br>- MySQL
+I'm currently interesting as a Frontend web developer<br><br>I'm currently Learning :<br>- ReactJS<br>- NextJS<br>- Typescript<br>- Golang<br>- PHP<br>- MySQL
 
 
 ## 🌐 Socials:
