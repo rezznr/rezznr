@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pilih Jurusan and Home Schooling Kak Seto<br>👯 I’m looking to collaborate on Web Development and Tech<br>🌱 I’m currently learning NextJS, Typescript, Golang, Laravel, MySQL, TailwindCSS<br>💬 Ask me about Tech, Anime, Manga, Memes and Others
+🔭 I’m currently working on Pilih Jurusan<br>👯 I’m looking to collaborate on Web Development and Tech<br>🌱 I’m currently learning NextJS, Typescript, Golang, Laravel, MySQL, TailwindCSS<br>💬 Ask me about Tech, Anime, Manga, Memes and Others
 
 
 ## 🌐 Socials:
