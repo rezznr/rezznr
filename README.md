@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Web Developer<br>👯 I’m looking to collaborate on Web Development and Tech<br>🌱 I’m currently learning NextJS, Golang, Laravel, MySQL, Typescript
+🔭 I’m currently working as Frontend Web Developer<br>👯 I’m looking to collaborate on Web Development and Tech<br>🌱 I’m currently learning NextJS, Golang, Laravel, MySQL, Typescript
 
 
 ## 🌐 Socials:
