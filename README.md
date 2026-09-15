@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Frontend Web Developer<br>👯 I’m looking to collaborate on Web Development and Tech<br>🌱 I’m code using React, NextJS, ExpressJS, Typescript, and Laravel
+🔭 I’m currently working as Web Developer<br>👯 I’m looking to collaborate on Web Development and Tech<br>🌱 I’m code using React, NextJS, ExpressJS, Typescript, and Laravel
 
 
 ## 🌐 Socials:
