@@ -1,6 +1,6 @@
 # Reza Novian
 
-Full-Stack Developer from Indonesia 🇮🇩
+Web Developer
 
 Building modern web & mobile applications with a focus on performance, maintainability, and great user experiences.
 
